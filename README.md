@@ -3,9 +3,9 @@
 ## Simulation pipeline
 ![image](fig/data.PNG)
 
-**GMFlow Raw Simulation** is a large-scale open dataset of high-fidelity three-dimensional earthquake ground-motion simulations (more than 5300 events) generated for the GMFlow project. It contains both **point-source** and **finite-rupture** earthquake scenarios for San Francisco Bay Area, covering magnitudes **Mw 4.4**, **Mw 6**, and **Mw 7** . Please download the dataset (.h5 files) from [https://huggingface.co/datasets/Yaozhong/GMFlow_raw_simulation](https://huggingface.co/datasets/Yaozhong/GMFlow_raw_simulation)
+**GMFlow Raw Simulation** is a large-scale open dataset of high-fidelity three-dimensional earthquake ground-motion simulations generated for the GMFlow project. It contains both **point-source** and **finite-rupture** earthquake scenarios for San Francisco Bay Area, covering magnitudes **Mw 4.4**, **Mw 6**, and **Mw 7** . Please download the dataset (.h5 files) from [https://huggingface.co/datasets/Yaozhong/GMFlow_raw_simulation](https://huggingface.co/datasets/Yaozhong/GMFlow_raw_simulation)
 
-The simulations are performed on the supercomputer Perlmutter at the National Energy Research Scientific Computing Center (NERSC), with a total size of **3.27 TB**, this dataset is intended to support research in earthquake engineering, seismology, scientific machine learning, operator learning, generative modeling, and uncertainty-aware surrogate modeling.
+The simulations are performed on the supercomputer Perlmutter at the National Energy Research Scientific Computing Center (NERSC), more than 5300 events with a total size of **3.27 TB**, this dataset is intended to support research in earthquake engineering, seismology, scientific machine learning, operator learning, generative modeling, and uncertainty-aware surrogate modeling.
 
 Detailed preprocessing files are provided in ```simulation_process``` folder, please run the `preprocess.py, post_process.py and final_norm.py` sequentially for each magnitude
 
