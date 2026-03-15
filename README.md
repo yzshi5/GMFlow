@@ -28,7 +28,7 @@ cd gmflow
 # create conda environment
 conda env create -f environment.yml
 
-# Activate the `mino` environment
+# Activate the `gmflow` environment
 conda activate gmflow
 ```
 Download the pretrained weights for Super-resolution operator, Autoencoding operator and Flow Matching via the same link, place them under the checkpoints folder. Then to generate a new synthetic event, the event_id ranges (0, 300), where by default 0-100 Mw6, 100-200 Mw7, 200-300 Mw4.4. 
