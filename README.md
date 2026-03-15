@@ -43,6 +43,6 @@ python evaluations/quick_test_unbias.py end2end_test event_id
 
 
 ## Video 
-![Mw4.4 Point-Source event](./gif/M44_point_source.gif)
+![Mw4.4 Point-Source event](./fig/M44_point_source.gif)
 
-![Mw7.0 Finite-rupture event](./gif/M7_rupture_source.gif)
+![Mw7.0 Finite-rupture event](./fig/M7_rupture_source.gif)
