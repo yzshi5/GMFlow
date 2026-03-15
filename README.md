@@ -11,3 +11,5 @@
 
 ## Video 
 ![Mw4.4 Point-Source event](./gif/M44_point_source.gif)
+
+![Mw7.0 Finite-rupture event](./gif/M7_rupture_source.gif)
