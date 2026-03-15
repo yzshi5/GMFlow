@@ -46,6 +46,10 @@ run the training file under ```training_scripts``` to train SNO, AENO and SNO (1
 
 
 ## Video 
+
+one Mw4.4 scenario
 ![Mw4.4 Point-Source event](./fig/M44_point_source.gif)
+
+one Mw7 scenario
 
 ![Mw7.0 Finite-rupture event](./fig/M7_rupture_source.gif)
