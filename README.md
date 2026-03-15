@@ -42,7 +42,7 @@ python evaluations/quick_test_unbias.py end2end_test event_id
 ```
 
 ## Training and Inference
-run the training file under ```training_scripts``` to train SNO, AENO and SNO (128M or 16M). For inference, check the paper and folder ```evaluations```, which contains files for residual plot, magnitude scaling, scenario comparison, zero-shot super-resolution, spectral calibaration etc. please first run files with```_calc``` to save the calculated results, then run the corresponding file with``__plot__`` for visualization.
+run the training file under ```training_scripts``` to train SNO, AENO and SNO (128M or 16M). For inference, check the paper and folder ```evaluations```, which contains files for residual plot, magnitude scaling, scenario comparison, zero-shot super-resolution, spectral calibaration etc. please first run files with```_calc__``` to save the calculated results, then run the corresponding file with``__plot__`` for visualization.
 
 
 ## Video 
