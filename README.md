@@ -8,3 +8,6 @@
 
 ## Inference 
 ![image](fig/inference.PNG)
+
+## Video 
+[Watch the demo](./video/M44_point_source.mp4)
