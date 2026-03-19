@@ -1,5 +1,5 @@
 # Large-Scale 3D Ground-Motion Synthesis with Physics-Inspired Latent Operator Flow Matching
-
+### [GMFlow Paper](https://arxiv.org/abs/2603.17403)
 ## Simulation pipeline
 ![image](fig/data.PNG)
 
@@ -53,3 +53,15 @@ one Mw4.4 scenario
 one Mw7 scenario
 
 ![Mw7.0 Finite-rupture event](./fig/M7_rupture_source.gif)
+
+## Reference
+If you find this repository useful for your research, please consider citing our work
+
+```bibtex
+@article{shi_large-scale_2026,
+	title = {Large-{Scale} {3D} {Ground}-{Motion} {Synthesis} with {Physics}-{Inspired} {Latent} {Operator} {Flow} {Matching}},
+	author = {Shi, Yaozhong and Lavrentiadis, Grigorios and Tsalouchidis, Konstantinos and Ross, Zachary E. and McCallen, David and Zou, Caifeng and Azizzadenesheli, Kamyar and Asimaki, Domniki},,
+  journal= {arXiv:2603.17403 [cs]},,
+  year={2026}
+}
+
